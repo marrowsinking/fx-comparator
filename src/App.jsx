@@ -3154,6 +3154,9 @@ function AppContent() {
           }
           debugPanel={null}
         />
+        <footer className="px-4 py-4 pb-6 text-center text-xs font-medium text-gray-400">
+          {t("footerCredit")}
+        </footer>
       </div>
     </main>
   );

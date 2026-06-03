@@ -125,6 +125,7 @@ export const translations = {
     notEdited: "尚未編輯",
     evaluatedAs: "以 {amount} → {currency} 評估",
     autoCalculatedValue: "自動換算值",
+    footerCredit: "製作：Shawn Zhong",
   },
   en: {
     zhShort: "繁中",
@@ -250,6 +251,7 @@ export const translations = {
     notEdited: "Not edited",
     evaluatedAs: "Evaluated as {amount} → {currency}",
     autoCalculatedValue: "auto calculated value",
+    footerCredit: "Created by Shawn Zhong",
   },
 };
 
